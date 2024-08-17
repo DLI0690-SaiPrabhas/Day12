@@ -1,0 +1,27 @@
+Hello
+
+everything is fine
+
+Bye bye
+
+
+[
+  {
+    "taskid": 101,
+    "description": "Digit capsul",
+    "duedate": "10/08/2024",
+    "completed": "yes"
+  },
+  {
+    "taskid": 102,
+    "description": "error rectifying",
+    "duedate": "11/08/2024",
+    "completed":"no"
+  },
+  {
+    "taskid": 105,
+    "description": "push the code",
+    "duedate": "15/08/2024",
+    "completed":"no"
+  }
+  ]
